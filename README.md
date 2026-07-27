@@ -56,32 +56,30 @@ visualization & dashboards · master data quality · machine learning basics
 ### Projects
 
 **[Master Data Quality — SQL & Power BI dashboard](https://github.com/ds-MarT90/<DQ-REPO-NAME>)** · `MS-SQL` · `Power BI`
-A data quality audit of ERP/CRM master data. I wrote **35 quality rules in SQL**
-across six quality dimensions, built a KPI scorecard, and an interactive **Power BI
-dashboard** with drill-through to single records.
-- Overall quality score ~97%, with problems concentrated in one core table.
-- Detected **304 orphaned records** (broken references) and **240 duplicate tax IDs**.
-- **Tech:** MS SQL Server, T-SQL, Power BI, Power Query.
+End-to-end data quality project covering profiling, SQL-based data quality audits and interactive reporting. Implemented **35 automated quality rules** across **7 data quality dimensions**, built a KPI scorecard and an interactive **Power BI dashboard** with drill-through capabilities.
+
+- Overall data quality score: **97.1%**
+- Detected duplicates, invalid values, inconsistent dictionaries and orphan records
+- Interactive KPI dashboard with filtering and drill-through
+- **Tech:** MS SQL Server, Power BI
+- **Future improvements:** Automated Power Query transformations and scheduled data quality monitoring.
 
 **[Loan Approval Prediction](https://github.com/ds-MarT90/loan-approval-prediction)** · `Python` · `scikit-learn`
-An end-to-end machine learning project built with the CRISP-DM process. I cleaned
-and explored a dataset of **4,269 loan applications**, engineered new financial
-features, and compared three models.
-- Found and fixed hidden data problems (e.g. leading spaces that silently turned
-  values into `NaN`).
-- Compared Logistic Regression (baseline, ~91% accuracy) with Decision Tree and
-  Random Forest — both tree models reached almost perfect scores (ROC AUC ≈ 1.0).
-- Credit score (CIBIL) was the most important factor in the decision.
+End-to-end machine learning project following the CRISP-DM methodology. Built a classification model using a dataset of 
+**4,269 loan applications**, covering data cleaning, exploratory analysis, feature engineering, model training and evaluation.
+
+- Cleaned and prepared raw data, resolving quality issues such as inconsistent text formatting and missing values.
+- Compared Logistic Regression, Decision Tree and Random Forest using Accuracy, Precision, Recall, F1-score and ROC AUC.
+- Identified **CIBIL score**, applicant income and loan amount as the most influential predictors.
 - **Tech:** Python, pandas, NumPy, scikit-learn, Matplotlib, Seaborn.
 
 **[Nobel Prize Analysis](https://github.com/ds-MarT90/nobel-prize-analysis)** · `Python` · `pandas`
-A question-driven analysis of Nobel Prize winners (**1901–2023**) from the Nobel
-Prize API. I answered five clear questions about gender, birth country, and categories.
-- Most laureates were men; the USA became the top birth country during the 20th century.
-- Highest share of female laureates: Literature in the 2020s; the first woman was
-  Marie Curie (Physics, 1903).
-- **Tech:** Python, pandas, seaborn, Matplotlib.
+Exploratory data analysis project based on Nobel Prize data from **1901–2023**. The project investigates long-term trends in award distribution across countries, genders and scientific fields using Python and data visualization techniques.
 
+- Analyzed historical trends in Nobel Prize awards across more than 120 years.
+- Explored changes in gender representation, birth countries and award categories.
+- Built clear visualizations to communicate key findings and historical patterns.
+- **Tech:** Python, pandas, Matplotlib, Seaborn.
 ---
 
 <p align="center">
