@@ -55,7 +55,7 @@ visualization & dashboards · master data quality · machine learning basics
 
 ### Projects
 
-**[Master Data Quality — SQL & Power BI dashboard][PL](https://github.com/ds-MarT90/master-data-quality-audit)** · `MS-SQL` · `Power BI`
+**[Master Data Quality — SQL & Power BI dashboard - PL](https://github.com/ds-MarT90/master-data-quality-audit)** · `MS-SQL` · `Power BI`
 End-to-end data quality project covering profiling, SQL-based data quality audits and interactive reporting. Implemented **35 automated quality rules** across **7 data quality dimensions**, built a KPI scorecard and an interactive **Power BI dashboard** with drill-through capabilities.
 
 - Overall data quality score: **97.1%**
