@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/<YOUR-LINKEDIN>/">
+  <a href="https://www.linkedin.com/in/<www.linkedin.com/in/marcin-tylutki>/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:<YOUR-EMAIL>">
+  <a href="mailto:<marcin.tylutki@gmail.com>">
     <img src="https://img.shields.io/badge/Contact-F2982B?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail">
   </a>
 </p>
@@ -81,11 +81,6 @@ Exploratory data analysis project based on Nobel Prize data from **1901–2023**
 - Built clear visualizations to communicate key findings and historical patterns.
 - **Tech:** Python, pandas, Matplotlib, Seaborn.
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ds-MarT90&show_icons=true&hide_border=true&title_color=12395B&icon_color=F2982B" alt="GitHub stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds-MarT90&layout=compact&hide_border=true&title_color=12395B" alt="Top languages" height="150">
-</p>
 
 <p align="center"><sub>Open to data analyst opportunities. Feel free to reach out — contact links above.</sub></p>
 
