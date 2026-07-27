@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/<TWÓJ-LINKEDIN>/">
+  <a href="https://www.linkedin.com/in/<https://www.linkedin.com/in/marcin-tylutki/>/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:<TWÓJ-EMAIL>">
+  <a href="mailto:<marcin.tylutki@gmail.com>">
     <img src="https://img.shields.io/badge/Kontakt-F2982B?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail">
   </a>
 </p>
@@ -67,9 +67,6 @@ trendy, rozkłady i wzorce, z użyciem pandas w środowisku Jupyter.
 **[Predykcja przyznania kredytu](https://github.com/ds-MarT90/loan-approval-prediction)** · `Python` · `scikit-learn`
 Projekt uczenia maszynowego: model przewidujący decyzję kredytową na podstawie
 cech wniosku — przygotowanie danych, trenowanie i ocena modelu.
-
-
-
 
 ---
 
