@@ -55,7 +55,7 @@ visualization & dashboards · master data quality · machine learning basics
 
 ### Projects
 
-**[Master Data Quality — SQL & Power BI dashboard](https://github.com/ds-MarT90/<DQ-REPO-NAME>)** · `T-SQL` · `Power BI`
+**[Master Data Quality — SQL & Power BI dashboard](https://github.com/ds-MarT90/<DQ-REPO-NAME>)** · `MS-SQL` · `Power BI`
 A data quality audit of ERP/CRM master data. I wrote **35 quality rules in SQL**
 across six quality dimensions, built a KPI scorecard, and an interactive **Power BI
 dashboard** with drill-through to single records.
