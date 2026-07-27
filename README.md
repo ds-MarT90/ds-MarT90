@@ -55,6 +55,11 @@ wizualizacja i dashboardy · jakość danych podstawowych · podstawy uczenia ma
 
 ### Projekty
 
+**[Jakość danych podstawowych — audyt i dashboard](https://github.com/ds-MarT90/<NAZWA-REPO-DQ>)** · `SQL / T-SQL` · `Power BI`
+Kompletny projekt master data: **35 reguł jakości** w SQL, scorecard KPI i
+interaktywny **dashboard w Power BI** z drążeniem do pojedynczego rekordu.
+Ogólny wskaźnik jakości ~97%, wykrycie m.in. 304 rekordów osieroconych i 240 duplikatów.
+
 **[Analiza danych laureatów Nagrody Nobla](https://github.com/ds-MarT90/nobel-prize-analysis)** · `Python` · `pandas`
 Analiza sterowana pytaniami — eksploracja danych o laureatach Nagrody Nobla:
 trendy, rozkłady i wzorce, z użyciem pandas w środowisku Jupyter.
@@ -63,10 +68,8 @@ trendy, rozkłady i wzorce, z użyciem pandas w środowisku Jupyter.
 Projekt uczenia maszynowego: model przewidujący decyzję kredytową na podstawie
 cech wniosku — przygotowanie danych, trenowanie i ocena modelu.
 
-**[Jakość danych podstawowych — audyt i dashboard](https://github.com/ds-MarT90/<NAZWA-REPO-DQ>)** · `SQL / T-SQL` · `Power BI`
-Kompletny projekt master data: **35 reguł jakości** w SQL, scorecard KPI i
-interaktywny **dashboard w Power BI** z drążeniem do pojedynczego rekordu.
-Ogólny wskaźnik jakości ~97%, wykrycie m.in. 304 rekordów osieroconych i 240 duplikatów.
+
+
 
 ---
 
