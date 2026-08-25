@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github_banner.png" alt="Marcin Tylutki — Data Analyst" width="100%">
+  <img src="assets/github_banner_data_analyst.png" alt="Marcin Tylutki — Data Analyst" width="100%">
 </p>
 
 <p align="center">
